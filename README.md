@@ -49,7 +49,3 @@ Per una configurazione diversa, imposta le variabili d’ambiente `DB_HOST`, `DB
 | `cliente/` | Prenotazioni, recensioni e profilo |
 | `includes/` | Componenti condivisi delle pagine |
 | `assets/` | CSS, JavaScript, immagini e font |
-
-## Collaudo
-
-Il progetto è stato verificato su Linux con **PHP 8.2 e MariaDB 10.4** e con **PHP 8.4 e MariaDB 11.8**. I controlli hanno coperto il primo avvio, l’accesso per ruolo, le prenotazioni concorrenti, gli annullamenti, il completamento degli appuntamenti e le recensioni.
